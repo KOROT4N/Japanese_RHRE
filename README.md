@@ -1,63 +1,63 @@
-**Before making an issue, please make sure to read the [contributing](.github/CONTRIBUTING.md) file!**
+**問題を報告する前に、[contributing](.github/CONTRIBUTING.md) ファイルを必ずお読みください！**
 
 <img align="right" src="core/assets/images/icon/256.png" height="256" width="256">
 
-# Rhythm Heaven Remix Editor (RHRE)
-A custom remix editor for the [Rhythm Heaven](https://en.wikipedia.org/wiki/Rhythm_Heaven_Megamix) series
+# Rhythm Heaven Remix Editor 日本語対応版 (RHREja)
+[リズム天国](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BA%E3%83%A0%E5%A4%A9%E5%9B%BD_%E3%83%9F%E3%83%A9%E3%82%AF%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA)シリーズ用のカスタムリミックスエディター
 
-### [Download the latest release here!](https://github.com/chrislo27/RhythmHeavenRemixEditor/releases/latest)
+### [最新版をダウンロードする！](https://github.com/KOROT4N/Japanese_RHRE/releases/latest)
 
-> As of 2020-10-25, this project is no longer in development, and is not accepting new issues.
+> 本家は2020年10月25日にこのプロジェクトの開発が終了しており、新規の課題を受け付けていません。
 
-[![Downloads](https://img.shields.io/github/downloads/chrislo27/RhythmHeavenRemixEditor/total.svg)](https://github.com/chrislo27/RhythmHeavenRemixEditor/releases)<br>
-Read the [README here](http://rhre.readthedocs.io/en/latest/README/).<br>
-Read the [documentation here](http://rhre.readthedocs.io/en/latest/).<br>
-Check out the [Rhythm Heaven Game Randomizer](https://github.com/chrislo27/RHGR)—a tool to set remixing challenges<br>
-Also see the [RHRE SFX Database Editor](https://github.com/chrislo27/RSDE)—a GUI for editing the RHRE SFX Database<br>
+[![Downloads](https://img.shields.io/github/downloads/KOROT4N/Japanese_RHRE/total.svg)](https://github.com/chrislo27/RhythmHeavenRemixEditor/releases)<br>
 
-[![Documentation Status](https://readthedocs.org/projects/rhre/badge/?version=latest)](http://rhre.readthedocs.io/en/latest/?badge=latest)
-[![GitHub license](https://img.shields.io/github/license/chrislo27/RhythmHeavenRemixEditor.svg)](https://github.com/chrislo27/RhythmHeavenRemixEditor/blob/dev/LICENSE.txt)
-[![Donate to the project maintainer](https://img.shields.io/badge/Donate-PayPal-blue.svg?logo=paypal)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VA45DPLCC4958)†
+[README](http://rhre.readthedocs.io/en/latest/README/)を読む。(英語)<br>
+[documentation](http://rhre.readthedocs.io/en/latest/)を読む。(英語)<br>
+リミックスチャレンジを設定するためのツール、[Rhythm Heaven Game Randomizer](https://github.com/chrislo27/RHGR)をチェックしてみてください。(英語)<br>
+また、[RHRE SFX Database Editor](https://github.com/chrislo27/RSDE)も見てください。これはRHRE SFXデータベースを編集するためのGUIツールです。(英語)<br>
 
-## Requirements
-* [A **64-bit** version of Java](https://java.com/en/download/manual.jsp), Java 8 or newer
-* A graphics driver that supports OpenGL ES 2.0 or higher
-* Windows 7 or newer, or Linux (recommended Ubuntu 20.04 LTS or newer)
-  * macOS support has been dropped as of 2020-08-14
-* An Internet connection to download the SFX Database
+## 必要条件
+* [64ビット版Java](https://java.com/en/download/manual.jsp)、Java 8以降
+* OpenGL ES 2.0以降をサポートするグラフィックドライバ
+* Windows 7以降、またはLinux（Ubuntu 20.04 LTS以降を推奨）
 
-## Features
-![Playalong screenshot by dexiedoo](.github/fp_playalong_v3.19.4.png)
+* macOSのサポートは2020年8月14日をもって終了しました
+* SFXデータベースをダウンロードするためのインターネット接続
 
-* Drag-and-drop common Rhythm Heaven minigame patterns into your remix
-* Change tempo and music volumes easily mid-way through the remix
-* Automatic SFX database updating as community fixes/additions get pulled in
-* Play the remixes you create using the Playalong function
-* Every Rhythm Heaven minigame is here!
+## 機能
+![Playalongスクリーンショット by dexiedoo](.github/fp_playalong_v3.19.4.png)
 
-## Installation
-Installation is straightforward. Please ensure your computer meets the Requirements above.
-1. Go [to the most recent release](https://github.com/chrislo27/RhythmHeavenRemixEditor/releases/latest) and download the `RHRE_X.zip` file, where `X` is the current version number.
-2. Once downloaded, extract this zip file to a location like the Desktop. On Windows, open the zip file and click Extract.
-3. Open the extracted folder. Depending on your operating system, run the following file:
-  * On Windows: double-click the `run_windows.bat` file
-  * On Linux: run the `run_linux.sh` file via Terminal (`./run_linux.sh`)
-4. Let the program download the necessary SFX if this is a first boot. You'll see something along the lines of "Receiving objects" while it loads. This may take several minutes.
-5. Read the [README](http://rhre.readthedocs.io/en/latest/README/) and get remixing!
+* リズム天国のミニゲームのパターンをドラッグ＆ドロップでリミックスに追加できます
+* リミックスの途中でテンポや音量を簡単に変更できます
+* コミュニティによる修正や追加が取り込まれると、効果音データベースが自動的に更新されます
+* プレイ機能を使って作成したリミックスを遊ぶことができます
+* リズム天国のゲームはすべて収録されています！
+* 初代リズム天国～リズム天国ミラクルスターズまで対応済み！
 
-## Updating the program
-From **v3.20.0 and newer**: To update the program, click the "Download and install update" button when the program greets you with the prompt. You can also check for updates manually in the Info and Settings screen, or update manually using the instructions below.<br>
-From **v3.19.5 and earlier**: To update the program, [download the latest version](https://github.com/chrislo27/RhythmHeavenRemixEditor/releases/latest) and run RHRE from the new version.<br>
+## インストール
+インストールは簡単です。お使いのコンピューターが上記の要件を満たしていることをご確認ください。
 
-## Other information
-Rhythm Heaven is not my property—it is the intellectual property of Nintendo.
-This program is **NOT** endorsed nor sponsored in any way by Nintendo.
-All used properties of Nintendo (such as names, audio, graphics, etc.) in this software are not intended to maliciously infringe trademark rights.
-All other trademarks and assets are property of their respective owners.
-This is a community project and this is available for others to use
-according to the [GPL-3.0 license](LICENSE.txt), without charge.
+1. [最新リリース](https://github.com/chrislo27/RhythmHeavenRemixEditor/releases/latest)にアクセスし、`RHRE_X.zip`ファイルをダウンロードしてください。`X`は現在のバージョン番号です。
 
-For the repository holding RHRE version v0.1.0-alpha to v0.4.4-alpha (collectively known as RHRE0), go to <https://github.com/chrislo27/RHRE0>.
+2. ダウンロード後、このzipファイルをデスクトップなどの任意の場所に解凍してください。Windowsの場合は、zipファイルを開き、「解凍」をクリックしてください。
 
-† [Donations](https://donate.rhre.dev) are only made to the project maintainer, [@chrislo27](https://github.com/chrislo27).
+3. 解凍したフォルダーを開きます。お使いのオペレーティングシステムに応じて、以下のファイルを実行してください。
 
+* Windowsの場合：`run_windows.bat`ファイルをダブルクリックします。
+* Linuxの場合：ターミナルで`run_linux.sh`ファイルを実行します（`./run_linux.sh`）。
+4. 初回起動の場合は、プログラムが必要なSFXをダウンロードするまでお待ちください。読み込み中は「オブジェクトを受信中」のようなメッセージが表示されます。これには数分かかる場合があります。
+
+5. [README](http://rhre.readthedocs.io/en/latest/README/)を読んで、リミックスを始めましょう！
+
+## プログラムのアップデート
+**v3.20.0以降**: プログラムをアップデートするには、プログラム起動時に表示されるプロンプトで「アップデートをダウンロードしてインストール」ボタンをクリックしてください。また、「情報と設定」画面で手動でアップデートを確認したりできます。<br>
+
+## その他の情報
+リズム天国は私の所有物ではなく、任天堂の知的財産です。
+
+このプログラムは、任天堂によるいかなる承認や後援も受けていません。
+
+このソフトウェアで使用されている任天堂のすべての財産（名称、音声、グラフィックなど）は、商標権を悪意を持って侵害する意図はありません。
+
+その他のすべての商標および資産は、それぞれの所有者の財産です。
+これはコミュニティプロジェクトであり、[GPL-3.0ライセンス](LICENSE.txt)に基づき、無償で利用可能です。
