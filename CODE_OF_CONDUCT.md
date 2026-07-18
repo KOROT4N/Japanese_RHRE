@@ -1,53 +1,39 @@
-# Code of Conduct
+# 行動規範
 
-We as users, members, and contributors agree to make participation in our
-community a harassment-free experience for everyone.
+私たちは、ユーザー、メンバー、および貢献者として、コミュニティへの参加をすべての人にとってハラスメントのない体験にすることに同意します。
 
-We strive to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+私たちは、オープンで、歓迎的かつ多様性に富み、包摂的で健全なコミュニティの構築に寄与するような行動や交流を心がけます。
 
-## Our Standards
+## 私たちの基準
 
-Examples of behaviour that contributes positively to our 
-community include:
+コミュニティに良い影響を与える行動の例：
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Focusing on what is best not just for us as individuals, but for the
-  community as a whole
+* 他者に対して共感と親切心を示すこと
+* 異なる意見、視点、経験を尊重すること
+* 建設的なフィードバックを行い、またそれを快く受け入れること
+* 個人としての利益だけでなく、コミュニティ全体にとって最善なことは何かを重視すること
 
-Examples of unacceptable behaviour include:
+容認されない行動の例：
 
-* The use of sexualized language or imagery, and sexual attention or
-  advances of any kind
-* Insulting or derogatory comments
-* Personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email
-  address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+* 性的・卑猥な言葉や画像の利用、およびあらゆる種類の性的関心や性的アプローチ
+* 侮辱的または軽蔑的な発言
+* 個人攻撃や政治的な攻撃
+* 公の場または非公開の場でのハラスメント
+* 本人の明示的な許可なく、住所やメールアドレスなどの個人情報を公開すること
+* その他、プロフェッショナルな場において不適切とみなされる行為
 
-## Enforcement Responsibilities
+## 運用の責任
 
-Community leaders are responsible for enforcing standards of
-acceptable behaviour and will take appropriate action in
-response to any behaviour that they deem inappropriate, threatening, offensive,
-or harmful, at their own discretion.
+コミュニティのリーダーは、容認される行動基準を運用する責任を負います。不適切、威圧的、攻撃的、または有害であると判断した行動に対しては、リーダーの裁量により適切な措置を講じます。
 
-Community leaders have the right and responsibility to remove, edit, or reject
-contributions that may not be aligned to this Code of Conduct.
+コミュニティのリーダーは、本行動規範に沿わない投稿や貢献を削除、編集、または拒否する権利と責任を有します。
 
-## Scope
+## 適用範囲
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
+本行動規範は、すべてのコミュニティの場（オンライン・オフラインを問わず）に適用されます。また、個人が公の場でコミュニティを公式に代表する場合にも適用されます。
 
-## Enforcement
+## 運用について
 
-Instances of abusive, harassing, or otherwise unacceptable behaviour may be
-reported at `conduct[at]rhre.dev`.
+暴言、ハラスメント、その他容認できない行動については、`conduct[at]rhre.dev` まで報告してください。
 
-Community leaders may determine appropriate actions at their own discretion
-when determining the consequences for any action they deem in violation of this Code of Conduct.
+本行動規範への違反とみなされる行為に対してどのような措置を講じるかについては、コミュニティのリーダーが自身の裁量で適切に判断します。
