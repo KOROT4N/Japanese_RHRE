@@ -1,8 +1,16 @@
 [
+    {
+    "name": "Japanese",
+    "locale": {
+      "language": "", // Leave blank to use the default localization file
+      "country": "",
+      "variant": ""
+    }
+  },
   {
     "name": "English",
     "locale": {
-      "language": "", // Leave blank to use the default localization file
+      "language": "en",
       "country": "",
       "variant": ""
     }
