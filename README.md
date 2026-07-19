@@ -11,7 +11,7 @@
 
 [README](http://rhre.readthedocs.io/en/latest/README/)を読む。(英語)<br>
 [documentation](http://rhre.readthedocs.io/en/latest/)を読む。(英語)<br>
-リミックスチャレンジを設定するためのツール、[Rhythm Heaven Game Randomizer](https://github.com/chrislo27/RHGR)をチェックしてみてください。(英語)<br>
+リミックスを作るのにちょっと役立つツール、[Rhythm Heaven Game Randomizer](https://github.com/chrislo27/RHGR)をチェックしてみてください。(英語)<br>
 また、[RHRE SFX Database Editor](https://github.com/chrislo27/RSDE)も見てください。これはRHRE SFXデータベースを編集するためのGUIツールです。(英語)<br>
 
 ## 必要条件
