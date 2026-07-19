@@ -7,7 +7,7 @@
 
 > 本家は2020年10月25日にこのプロジェクトの開発が終了しており、新規の課題を受け付けていません。
 
-[![Downloads](https://img.shields.io/github/downloads/KOROT4N/Japanese_RHRE/total.svg)](https://github.com/chrislo27/RhythmHeavenRemixEditor/releases)<br>
+[![Downloads](https://img.shields.io/github/downloads/KOROT4N/Japanese_RHRE/total.svg)](https://github.com/KOROT4N/Japanese_RHRE/releases)<br>
 
 [README](http://rhre.readthedocs.io/en/latest/README/)を読む。(英語)<br>
 [documentation](http://rhre.readthedocs.io/en/latest/)を読む。(英語)<br>
