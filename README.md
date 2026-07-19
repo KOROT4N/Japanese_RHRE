@@ -1,5 +1,3 @@
-**問題を報告する前に、[contributing](.github/CONTRIBUTING.md) ファイルを必ずお読みください！**
-
 <img align="right" src="core/assets/images/icon/256.png" height="256" width="256">
 
 # Rhythm Heaven Remix Editor 日本語対応版 (RHREja)
