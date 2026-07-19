@@ -15,7 +15,9 @@ object Credits {
                 "title" crediting RHRE3.GITHUB,
                 "programming" crediting "chrislo27\n${Localization["credits.title.programming.contributions", "Kamayana"]}",
                 "localization" crediting
-                        """[LIGHT_GRAY]Français (French)[]
+                        """[LIGHT_GRAY]日本語 (Japanese)[]
+                |KOROT4N
+                |[LIGHT_GRAY]Français (French)[]
                 |inkedsplat, minenice55, Pengu123
                 |
                 |[LIGHT_GRAY]Español (Spanish)[]
