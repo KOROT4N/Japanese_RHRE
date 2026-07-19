@@ -15,7 +15,7 @@
 また、[RHRE SFX Database Editor](https://github.com/chrislo27/RSDE)も見てください。これはRHRE SFXデータベースを編集するためのGUIツールです。(英語)<br>
 
 ## 必要条件
-* [64ビット版Java](https://java.com/en/download/manual.jsp)、Java 8以降
+* [64ビット版Java](https://java.com/ja/download/manual.jsp)、Java 8以降
 * OpenGL ES 2.0以降をサポートするグラフィックドライバ
 * Windows 7以降、またはLinux（Ubuntu 20.04 LTS以降を推奨）
 
